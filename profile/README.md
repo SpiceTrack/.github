@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![alt text](https://github.com/SpiceTrack/.github/blob/main/profile/spicetrac.png?raw=true)
 <!--
 
 **Here are some ideas to get you started:**
