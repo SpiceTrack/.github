@@ -1,5 +1,5 @@
 # Welcome to SpiceTrack!
-##Capstone Project of Bangkit 2024 Batch 2 - C242-PS071
+## Capstone Project of Bangkit 2024 Batch 2 - C242-PS071
 
 ![alt text](https://github.com/SpiceTrack/.github/blob/main/profile/spicetrac.png?raw=true)
 
