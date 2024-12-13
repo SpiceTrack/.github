@@ -1,15 +1,13 @@
-# Welcome to SpiceTrack! - Capstone Project of Bangkit 2024 Batch 2 - C242-PS071
+# Welcome to SpiceTrack!
+##Capstone Project of Bangkit 2024 Batch 2 - C242-PS071
 
 ![alt text](https://github.com/SpiceTrack/.github/blob/main/profile/spicetrac.png?raw=true)
 
-## Check Out Our App Design:
-[Click Here](https://www.figma.com/design/oladzOuDevYIbRh7EoWLGG/SpieeTrack-UI?node-id=68-8&node-type=canvas)
+## Check Out Our App Design ([Click Here](https://www.figma.com/design/oladzOuDevYIbRh7EoWLGG/SpieeTrack-UI?node-id=68-8&node-type=canvas))
 
-## Check Out Our App:
-[Click Here](https://github.com/SpiceTrack/mobile-spicetrack/releases/tag/v1.0.0)
+## Check Out Our App ([Click Here](https://github.com/SpiceTrack/mobile-spicetrack/releases/tag/v1.0.0))
 
-## Check Out our Slides:
-To get to know more about this product, [click Here](https://www.canva.com/design/DAGYtSrfNkQ/8jRKQ48r9smJraXH8VhkLw/)
+## Get To Know More ([click Here](https://www.canva.com/design/DAGYtSrfNkQ/8jRKQ48r9smJraXH8VhkLw/))
 
 # Presented to You By:
 | ID           | Name                        | University                                                                 | Field              | Status  |
